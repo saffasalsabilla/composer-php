@@ -1,0 +1,13 @@
+{
+    "name": "user/composerphp",
+    "authors": [
+        {
+            "name": "Saffa Salsabilla",
+            "email": "saffasalsha@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
+
